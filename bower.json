@@ -1,5 +1,5 @@
 {
-	"name": "gilbitron/Dropit",
+	"name": "nford/Dropit",
 	"version": "1.1.0",
 	"main": "dropit.js",
 	"description": "Dropit is a jQuery plugin for single level dropdown menu's",
